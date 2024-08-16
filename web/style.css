@@ -1,0 +1,70 @@
+body {
+  background-color: rgb(22, 100, 40);
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  display: grid;
+  margin: 0px;
+  justify-items: center;
+  margin-top: 60px;
+  gap: 60px;
+}
+
+a,
+p,
+h1,
+h2,
+h3 {
+  margin: 0px;
+  padding: 8px;
+  letter-spacing: 1.2px;
+}
+
+#logobv {
+  max-width: 150px;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.813);
+  justify-items: center;
+  border-radius: 5px;
+  font-size: 20px;
+  margin: 4px;
+  letter-spacing: 1.5px;
+}
+.menu {
+  margin-bottom: -40px;
+}
+.button {
+  background-color: rgb(252, 252, 252);
+  color: rgba(12, 97, 42, 0.781);
+  padding: 2px;
+}
+
+.box {
+  background-color: rgba(35, 35, 35, 0.537);
+  padding: 30px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center;
+  display: flexbox;
+  width: 1000px;
+}
+
+#title {
+  font-size: 50px;
+}
+.texto {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+#rank {
+  margin-top: 40px;
+  border-radius: 15px;
+}
+#datebox {
+  margin-top: -40px;
+}
